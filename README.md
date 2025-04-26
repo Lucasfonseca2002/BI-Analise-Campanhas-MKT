@@ -1,16 +1,6 @@
 # BI - Análise de Campanhas de Marketing
 
-
-
-
-
-
-
-
-
-
-
-
+<img src="https://github.com/Lucasfonseca2002/BI-Analise-Campanhas-MKT/blob/main/imgs-Dashboard/dashboard.png" alt="Texto Alternativo">
 
 ## 📊 Visão Geral do Projeto
 
@@ -23,11 +13,10 @@
   - Avaliar eficácia das campanhas
   - Orientar decisões de Marketing
 
-
 ## 🔧 Ferramentas e Dados
 
 ### Ferramenta para o desenvolvimento do projeto: Power BI
-### Fonte de dados : Base de dados -> dados_marketing.csv
+### Fonte de dados : Base de dados -> **dados_marketing.csv**
 
 
 ## 🎯 Principais Insights
@@ -87,20 +76,28 @@
 - Dados demográficos
 - Segmentação por características
 
+<img src="https://github.com/Lucasfonseca2002/BI-Analise-Campanhas-MKT/blob/main/imgs-Dashboard/dash-visao-cliente.png" alt="Texto Alternativo">
+
 2. Comportamento de Compras:
 
   - Análise por perfil familiar
   - Padrões de gastos
+
+<img src="https://github.com/Lucasfonseca2002/BI-Analise-Campanhas-MKT/blob/main/imgs-Dashboard/dash-comportamento-compras.png" alt="Texto Alternativo">
 
 3. Performance Geográfica:
 
   - Mapa de vendas
   - Evolução temporal
 
+<img src="https://github.com/Lucasfonseca2002/BI-Analise-Campanhas-MKT/blob/main/imgs-Dashboard/dash-padrao-de-compra.png" alt="Texto Alternativo">
+
 4. Eficácia de Campanhas:
 
   - Taxas de conversão
   - ROI por segmento
+
+  <img src="https://github.com/Lucasfonseca2002/BI-Analise-Campanhas-MKT/blob/main/imgs-Dashboard/dash-%20performance-campanhas.png" alt="Texto Alternativo">
 
 ### Filtros Interativos:
 
