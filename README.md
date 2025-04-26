@@ -73,8 +73,10 @@
 
 1. Visão do Cliente:
 
-- Dados demográficos
-- Segmentação por características
+- Total de Clientes
+- Média Salaria
+- Canais de Compra
+- Perfil dos Clientes
 
 <img src="https://github.com/Lucasfonseca2002/BI-Analise-Campanhas-MKT/blob/main/imgs-Dashboard/dash-visao-cliente.png" alt="Texto Alternativo">
 
@@ -87,8 +89,8 @@
 
 3. Performance Geográfica:
 
-  - Mapa de vendas
-  - Evolução temporal
+  - Total de gastos por País
+  - Evolução temporal de gastos
 
 <img src="https://github.com/Lucasfonseca2002/BI-Analise-Campanhas-MKT/blob/main/imgs-Dashboard/dash-padrao-de-compra.png" alt="Texto Alternativo">
 
