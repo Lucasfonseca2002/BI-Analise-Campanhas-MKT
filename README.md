@@ -26,7 +26,7 @@
 |    Metrica      | Valor         | Insight          |
 | -------------   | ------------- | ---------        |
 | Total de Clientes  | 1.999  |  Base significativa para análise  |
-| Média Salaria   | R$ 52k/ano	 |   Público com poder aquisitivo médio-alto  |
+| Média Salarial  | R$ 52k/ano	 |   Público com poder aquisitivo médio-alto  |
 | Escolaridade    | 50% Superior	 |   Público educado e informado  |
 | Estado Civil    | 60% Solteiros  |  Maior receptividade a promoções |
 
